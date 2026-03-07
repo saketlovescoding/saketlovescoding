@@ -17,6 +17,7 @@ Building things with **Java**, **TypeScript** & **Python**
 
 ### About Me
 
+- Joined GitHub **0** years ago
 - Currently building things with **Java, TypeScript & Python**
 - Always exploring new technologies and tools
 - Open to collaborating on interesting projects
@@ -42,7 +43,25 @@ Building things with **Java**, **TypeScript** & **Python**
 
 ---
 
-*Stats will auto-populate once the GitHub Action runs. Trigger it manually or push to main.*
+### GitHub Stats
+
+| All Time | Last Year | Top Languages (last year) |
+|----------|-----------|---------------------------|
+| 📦 **6** public repos | 🔥 **22** commits | ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%2031%25) |
+| 🔥 **22** commits | 📝 **0** issues | ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2026%25) |
+| 📋 **0** issues | 🔀 **0** PRs | ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%2017%25) |
+| 🔀 **0** PRs | $\color{Green}{\textsf{+4,765}}$ lines added | ![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%2015%25) |
+| ⭐ **0** stars | $\color{Red}{\textsf{-253}}$ lines removed | ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2011%25) |
+
+---
+
+### Most Active Projects (Last Year)
+
+- [saketramsinghani](https://github.com/saketlovescoding/saketramsinghani) - 8 commits, $\color{Green}{\textsf{+461}}$ / $\color{Red}{\textsf{-18}}$
+- [saketlovescoding](https://github.com/saketlovescoding/saketlovescoding) - 5 commits, $\color{Green}{\textsf{+1,024}}$ / $\color{Red}{\textsf{-188}}$
+- [Java](https://github.com/saketlovescoding/Java) - 3 commits, $\color{Green}{\textsf{+1,045}}$ / $\color{Red}{\textsf{-0}}$
+- [typescript-first-steps](https://github.com/saketlovescoding/typescript-first-steps) - 2 commits, $\color{Green}{\textsf{+131}}$ / $\color{Red}{\textsf{-47}}$
+- [hackattic](https://github.com/saketlovescoding/hackattic) - 2 commits, $\color{Green}{\textsf{+2,104}}$ / $\color{Red}{\textsf{-0}}$
 
 ---
 
