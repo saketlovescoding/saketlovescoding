@@ -17,6 +17,7 @@ Building things with **Java**, **TypeScript** & **Python**
 
 ### About Me
 
+- Joined GitHub **{{ ACCOUNT_AGE }}** years ago
 - Currently building things with **Java, TypeScript & Python**
 - Always exploring new technologies and tools
 - Open to collaborating on interesting projects
@@ -42,7 +43,19 @@ Building things with **Java**, **TypeScript** & **Python**
 
 ---
 
-*Stats will auto-populate once the GitHub Action runs. Trigger it manually or push to main.*
+### GitHub Stats
+
+| All Time | Last Year | Top Languages (last year) |
+|----------|-----------|---------------------------|
+{{ TOP_LANGUAGES_ROWS }}
+
+---
+
+### Most Active Projects (Last Year)
+
+{{ REPO_TEMPLATE_START }}
+- [{{ REPO_NAME }}]({{ REPO_URL }}) - {{ REPO_COMMITS }} commits, {{ REPO_ADDITIONS }} / {{ REPO_DELETIONS }}
+{{ REPO_TEMPLATE_END }}
 
 ---
 
