@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="140" viewBox="0 0 900 140" role="img" aria-label="GitHub highlights card">
+  <rect x="0.5" y="0.5" width="899" height="139" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+  <text x="24" y="34" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="700" fill="#24292f">GitHub Highlights</text>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <rect x="24" y="52" width="264" height="64" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+    <text x="40" y="76" font-size="14" font-weight="700" fill="#24292f">Project Builder</text>
+    <text x="40" y="98" font-size="12" fill="#57606a">6 public repositories across Java, TypeScript, HTML, and more</text>
+
+    <rect x="318" y="52" width="264" height="64" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+    <text x="334" y="76" font-size="14" font-weight="700" fill="#24292f">Consistent Contributor</text>
+    <text x="334" y="98" font-size="12" fill="#57606a">25 contributions over 13 active days in the last year</text>
+
+    <rect x="612" y="52" width="264" height="64" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+    <text x="628" y="76" font-size="14" font-weight="700" fill="#24292f">Polyglot Stack</text>
+    <text x="628" y="98" font-size="12" fill="#57606a">Top languages: TypeScript, Java, HTML</text>
+  </g>
+</svg>
