@@ -88,7 +88,7 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="28" /> &nbsp;Most Active Projects (Last Year)
+## 🚀 &nbsp;Most Active Projects (Last Year)
 
 {{ REPO_TEMPLATE_START }}
 - [{{ REPO_NAME }}]({{ REPO_URL }}) - {{ REPO_COMMITS }} commits, {{ REPO_ADDITIONS }} / {{ REPO_DELETIONS }}

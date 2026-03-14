@@ -92,7 +92,7 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="28" /> &nbsp;Most Active Projects (Last Year)
+## 🚀 &nbsp;Most Active Projects (Last Year)
 
 - [saketlovescoding](https://github.com/saketlovescoding/saketlovescoding) - 17 commits, ![+1,265](https://img.shields.io/static/v1?style=flat-square&label=&color=3fb950&message=%2B1%2C265) / ![-305](https://img.shields.io/static/v1?style=flat-square&label=&color=f85149&message=-305)
 - [saketramsinghani](https://github.com/saketlovescoding/saketramsinghani) - 11 commits, ![+1,293](https://img.shields.io/static/v1?style=flat-square&label=&color=3fb950&message=%2B1%2C293) / ![-149](https://img.shields.io/static/v1?style=flat-square&label=&color=f85149&message=-149)
