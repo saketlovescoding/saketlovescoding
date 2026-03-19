@@ -1,17 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20Saket%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
-
-<br/>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=520&lines=Software+Engineer;Java+%7C+TypeScript+%7C+Python;Building+cool+things+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://github.com/saketlovescoding">
+  <img src="./header.svg" width="100%" alt="Saket Ramsinghani - Software Engineer"/>
+</a>
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saketramsinghani/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/saket1616830)
-[![Website](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://saketramsinghani.life/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saket030801@gmail.com)
+[![Website](https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://saketramsinghani.life/)
+[![Email](https://img.shields.io/badge/Email-0891b2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saket030801@gmail.com)
 
 </div>
 
@@ -98,7 +96,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,50:06b6d4,100:14b8a6&height=3&section=footer" width="100%"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=saketlovescoding&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
 
