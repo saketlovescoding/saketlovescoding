@@ -82,17 +82,17 @@
 
 | All Time | Last Year | Top Languages (last year) |
 |----------|-----------|---------------------------|
-| 📦 **17** public repos | 🔥 **206** commits | ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2079%25) |
-| 🔥 **398** commits | 📝 **3** issues | ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%208%25) |
+| 📦 **17** public repos | 🔥 **207** commits | ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2079%25) |
+| 🔥 **399** commits | 📝 **3** issues | ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%208%25) |
 | 📋 **6** issues | 🔀 **0** PRs | ![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%207%25) |
-| 🔀 **0** PRs | ![+21,531](https://img.shields.io/static/v1?style=flat-square&label=&color=3fb950&message=%2B21%2C531) lines added | ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%204%25) |
-| ⭐ **1** stars | ![-2,214](https://img.shields.io/static/v1?style=flat-square&label=&color=f85149&message=-2%2C214) lines removed | ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%202%25) |
+| 🔀 **0** PRs | ![+21,536](https://img.shields.io/static/v1?style=flat-square&label=&color=3fb950&message=%2B21%2C536) lines added | ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%204%25) |
+| ⭐ **1** stars | ![-2,219](https://img.shields.io/static/v1?style=flat-square&label=&color=f85149&message=-2%2C219) lines removed | ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%202%25) |
 
 <br/>
 
 ## 🚀 &nbsp;Most Active Projects (Last Year)
 
-- [saketlovescoding](https://github.com/saketlovescoding/saketlovescoding) - 143 commits, ![+2,132](https://img.shields.io/static/v1?style=flat-square&label=&color=3fb950&message=%2B2%2C132) / ![-1,004](https://img.shields.io/static/v1?style=flat-square&label=&color=f85149&message=-1%2C004)
+- [saketlovescoding](https://github.com/saketlovescoding/saketlovescoding) - 144 commits, ![+2,137](https://img.shields.io/static/v1?style=flat-square&label=&color=3fb950&message=%2B2%2C137) / ![-1,009](https://img.shields.io/static/v1?style=flat-square&label=&color=f85149&message=-1%2C009)
 - [react](https://github.com/saketlovescoding/react) - 16 commits, ![+8,217](https://img.shields.io/static/v1?style=flat-square&label=&color=3fb950&message=%2B8%2C217) / ![-618](https://img.shields.io/static/v1?style=flat-square&label=&color=f85149&message=-618)
 - [data-structures-and-algorithms](https://github.com/saketlovescoding/data-structures-and-algorithms) - 14 commits, ![+1,079](https://img.shields.io/static/v1?style=flat-square&label=&color=3fb950&message=%2B1%2C079) / ![-35](https://img.shields.io/static/v1?style=flat-square&label=&color=f85149&message=-35)
 - [saketramsinghani](https://github.com/saketlovescoding/saketramsinghani) - 13 commits, ![+2,567](https://img.shields.io/static/v1?style=flat-square&label=&color=3fb950&message=%2B2%2C567) / ![-473](https://img.shields.io/static/v1?style=flat-square&label=&color=f85149&message=-473)
